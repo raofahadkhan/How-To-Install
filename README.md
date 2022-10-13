@@ -1,4 +1,4 @@
-# How To Install:
+# How To Install Github Desktop, Yarn, Surge on Ubuntu::
 
 In this repo i have put all the command that are needed to install the softwares, utilities and packages that are needed in our daily life.
 __________________________________________________________________________________________________________________
